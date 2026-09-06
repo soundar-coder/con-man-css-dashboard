@@ -1,6 +1,6 @@
 package com.leanring.crud.Entity;
 
-
+// ho soundar i am entity changes 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
