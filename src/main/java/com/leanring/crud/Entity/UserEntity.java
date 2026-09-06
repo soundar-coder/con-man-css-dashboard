@@ -22,4 +22,6 @@ public class UserEntity {
     private String salary;
     private String designationn;
 
+    private String address;
+
 }
