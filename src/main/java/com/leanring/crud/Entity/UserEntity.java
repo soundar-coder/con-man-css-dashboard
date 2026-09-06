@@ -12,7 +12,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class UserEntity {
-
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
@@ -21,5 +20,6 @@ public class UserEntity {
     private String empid;
     private String gmail;
     private String salary;
+    private String designationn;
 
 }
