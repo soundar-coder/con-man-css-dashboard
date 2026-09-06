@@ -21,5 +21,6 @@ public class UserEntity {
     private String empid;
     private String gmail;
     private String salary;
+    private String designation;
 
 }
